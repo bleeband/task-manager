@@ -38,7 +38,7 @@ task-manager/
 
 ## 👨‍💻 Auteur
 
-Votre Nom - Cours Git @ Collège Maisonneuve
+Marc-André Dufour - Cours Git @ Collège Maisonneuve
 
 ## 📄 Licence
 
