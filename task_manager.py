@@ -33,3 +33,10 @@ class TaskManager:
         """Affiche toutes les tâches."""
         for i, task in enumerate(self.tasks):
             print(f"{i}. {task}")
+
+def remove_task(self, index):
+    """Supprime une tâche par son index."""
+    if 0 <= index < len(self.tasks):
+        del self.tasks[index]
+        return True
+    return False
